@@ -5,7 +5,9 @@ Script requires two parameters:
   2. target extension
    
 In example :
+
 $ ./renamext txt text
+
 This command will result with change extensions of all *.txt files in current directory to *.text :
 
 ```bash
