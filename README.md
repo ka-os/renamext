@@ -1,5 +1,5 @@
 # renamext
-Bash script to rename all files extensions in current directory.
+Bash script to rename bulk files extensions in current directory.
 Script requires two parameters: 
   1. extension of files you want to change
   2. target extension
