@@ -1,14 +1,13 @@
 # renamext
 Bash script to rename bulk files extensions in current directory.
 Script requires two arguments: 
-  1. extension of files you want to change
-  2. target extension
+  1. arg1 extension of files you want to change
+  2. arg2 target extension
    
-In example :
-
 $ ./renamext arg1 arg2
 
-This command will result with change extensions of all *.txt files in current directory to *.text :
+
+In example : this command will result with change extensions of all *.txt files in current directory to *.text :
 
 ```bash
 $ ls
