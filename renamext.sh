@@ -8,5 +8,5 @@ if [ $# -gt "1" ]
 			echo "Renaming extension of $file ->" "${file%.$1}.$2"
 		done
 	else
-		echo "Missing arguments..."
+		echo "Missing arguments... two arguments are required."
 fi
